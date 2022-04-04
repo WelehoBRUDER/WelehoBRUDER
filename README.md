@@ -1,17 +1,13 @@
-## ✨ Weleho appears!
+# ✨ Weleho appears!
 
 I am a programmer interested in **React** and **Game Development**.
 
-### I'm currently working on a couple of projects in my freetime:
+## My projects:
 
   ### Dungeons of Tavaraen
   Roguelite game with grid based movement, made with TypeScript.  
-  [Dungeons of Tavaraen - Play](https://welehobruder.github.io/Dungeons-of-Tavaraen/)  
-  [Dungeons of Tavaraen - Repository](https://github.com/WelehoBRUDER/Dungeons-of-Tavaraen)
-  
-  ## Dungeons of Tavaraen Wiki
-  Currently hidden as it's very much still WIP.
-  This is a fullstack project meant to create a wiki site for my game.
+  [Play](https://welehobruder.github.io/Dungeons-of-Tavaraen/)  
+  [Repository](https://github.com/WelehoBRUDER/Dungeons-of-Tavaraen)
   
 ### My skills
 
