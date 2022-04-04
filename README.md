@@ -9,7 +9,7 @@ I am a programmer interested in **React** and **Game Development**.
   [Play](https://welehobruder.github.io/Dungeons-of-Tavaraen/)  
   [Repository](https://github.com/WelehoBRUDER/Dungeons-of-Tavaraen)
   
-### My skills
+## My skills
 
   - ``React``  
      I'm quite comfortable with React, but I'm still learning mechanics and best practices.
@@ -27,7 +27,7 @@ I am a programmer interested in **React** and **Game Development**.
    - Notable mentions: ``Express.js``, ``Node.js``, ``mongoDB``
   
   
- ### My hobbies
+ ## My hobbies
  I enjoy programming and gaming during my freetime.  
  I also work out at the gym 4 times per week, and occasionally jog a bit outside.
 
