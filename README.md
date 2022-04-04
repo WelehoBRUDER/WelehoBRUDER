@@ -1,16 +1,38 @@
-### Hi there 👋
+## ✨ Weleho appears!
 
-<!--
-**WelehoBRUDER/WelehoBRUDER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a programmer interested in **React** and **Game Development**.
 
-Here are some ideas to get you started:
+### I'm currently working on a couple of projects in my freetime:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Dungeons of Tavaraen
+  Roguelite game with grid based movement, made with TypeScript.  
+  [Dungeons of Tavaraen - Play](https://welehobruder.github.io/Dungeons-of-Tavaraen/)  
+  [Dungeons of Tavaraen - Repository](https://github.com/WelehoBRUDER/Dungeons-of-Tavaraen)
+  
+  ## Dungeons of Tavaraen Wiki
+  Currently hidden as it's very much still WIP.
+  This is a fullstack project meant to create a wiki site for my game.
+  
+### My skills
+
+  - ``React``  
+     I'm quite comfortable with React, but I'm still learning mechanics and best practices.
+     
+  - ``Javascript``  
+     Javascript is my favourite programming language, and I will defend it to death.  
+     I feel right at home when writing vanilla JS, and consider my self very competent.
+     
+  - ``SCSS``
+     Sass is the only way I can write CSS now, and yet I'm still at the beginning.
+     
+   - ``Typescript``
+     My largest ever project is being developed in Typescript, and so I am learning it quite well.
+     
+   - Notable mentions: ``Express.js``, ``Node.js``, ``mongoDB``
+  
+  
+ ### My hobbies
+ I enjoy programming and gaming during my freetime.  
+ I also work out at the gym 4 times per week, and occasionally jog a bit outside.
+
+
