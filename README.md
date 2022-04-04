@@ -18,10 +18,10 @@ I am a programmer interested in **React** and **Game Development**.
      Javascript is my favourite programming language, and I will defend it to death.  
      I feel right at home when writing vanilla JS, and consider my self very competent.
      
-  - ``SCSS``
+  - ``SCSS``  
      Sass is the only way I can write CSS now, and yet I'm still at the beginning.
      
-   - ``Typescript``
+   - ``Typescript``  
      My largest ever project is being developed in Typescript, and so I am learning it quite well.
      
    - Notable mentions: ``Express.js``, ``Node.js``, ``mongoDB``
