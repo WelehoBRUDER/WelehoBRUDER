@@ -2,6 +2,8 @@
 
 I am a programmer interested in **React** and **Game Development**.
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=welehobruder)](https://github.com/welehobruder/github-readme-stats)
+
 ## My projects:
 
   ### Dungeons of Tavaraen
