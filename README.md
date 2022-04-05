@@ -2,7 +2,7 @@
 
 I am a programmer interested in **React** and **Game Development**.
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=welehobruder?count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=welehobruder&show_icons=true&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My projects:
 
